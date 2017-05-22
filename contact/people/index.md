@@ -18,13 +18,20 @@ Name | Phone Number (Intercom) | Email |
 Prof. Ramesh Singh | - | - | <img class="bio" src="" alt="Prof. Ramesh Singh" height="100" width="100">
 Prof. Joseph John | - | - | <img class="bio" src="" alt="Prof. Joseph John" height="100" width="100">
 
-<center><h3>Managers and Convenors</h3></center>
+<center><h3>Managers</h3></center>
 
 Name | Phone Number | Email | 
 :---- | :---- | :---- | :----
-Naman Gupta | 7738723389/8989409444 | [namang.iitb@gmail.com](mailto:namang.iitb@gmail.com) | <img class="bio" src="{{ site.url }}/images/naman.jpg" alt="Smiley face" height="100" width="100">
-Rakshit Jain | 8828294852 | [rakshit28081996@gmail.com](mailto:rakshit28081996@gmail.com) | <img class="bio" src="{{ site.url }}/images/rakshit.jpg" alt="Smiley face" height="100" width="100">
-Aadhavan Nambhi | 8828292112/9659365368 | [aadhavannambhi.m@gmail.com](mailto:aadhavannambhi.m@gmail.com) | <img class="bio" src="{{ site.url }}/images/aadhavan.jpg" alt="Smiley face" height="100" width="100">
+Mookund Sureka | 7045800176 | [mookundsureka@gmail.com](mailto:mookundsureka@gmail.com) | <img class="bio" src="{{ site.url }}/images/mookund.jpg" alt="Smiley face" height="100" width="100">
+Tejendhu Mouli | 7045800490 | [tejendhu@gmail.com](mailto:tejendhu@gmail.com) | <img class="bio" src="{{ site.url }}/images/tejendhu.png" alt="Smiley face" height="100" width="100">
+
+
+<center><h3>Convenors</h3></center>
+
+Name | Phone Number | Email | 
+:---- | :---- | :---- | :----
+Vikrant Nagpure | 9987107298 | [vikrantnagpure721998@gmail.com](mailto:vikrantnagpure721998@gmail.com) | <img class="bio" src="{{ site.url }}/images/vikrant.png" alt="Smiley face" height="100" width="100">
+Rohan Gurav | 8692082029 | [rohangurav7@gmail.com](mailto:rohangurav7@gmail.com) | <img class="bio" src="{{ site.url }}/images/rohan.png" alt="Smiley face" height="100" width="100">
 
 <center><h3>Technicians</h3></center>
 
