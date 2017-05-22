@@ -31,7 +31,7 @@ Tejendhu Mouli | 7045800490 | [tejendhu@gmail.com](mailto:tejendhu@gmail.com) | 
 Name | Phone Number | Email | 
 :---- | :---- | :---- | :----
 Vikrant Nagpure | 9987107298 | [vikrantnagpure721998@gmail.com](mailto:vikrantnagpure721998@gmail.com) | <img class="bio" src="{{ site.url }}/images/vikrant.png" alt="Smiley face" height="100" width="100">
-Rohan Gurav | 8692082029 | [rohangurav7@gmail.com](mailto:rohangurav7@gmail.com) | <img class="bio" src="{{ site.url }}/images/rohan.png" alt="Smiley face" height="100" width="100">
+Rohan Gurav | 8692082029 | [rohangurav7@gmail.com](mailto:rohangurav7@gmail.com) | <img class="bio" src="{{ site.url }}/images/rohan1.png" alt="Smiley face" height="100" width="100">
 
 <center><h3>Technicians</h3></center>
 
